@@ -49,3 +49,8 @@ Disk filling completed successfully!
 ## Requirements
 
 - Python 3.7+
+
+## Install Python
+```bash
+brew install python@3.10
+```
